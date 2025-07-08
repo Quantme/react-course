@@ -8,9 +8,9 @@ This repository contains projects built during Udemy's [React Crash Course](http
    Introduction to React fundamentals  
    [`/basic`](/basic)
 
-2. **To-Do List App**  
-   State management and CRUD operations  
-   [`/todo`](/todo)
+2. **Forms & API**
+   Form handling and API integration
+   [`/forms-api`](/forms-api)
 
 3. **AI Chatbot**  
    API integration and advanced hooks  
